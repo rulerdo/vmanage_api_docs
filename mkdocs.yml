@@ -1,0 +1,15 @@
+site_name: vManage API application
+site_description: Code Guide
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+nav:
+  - "Home": index.md
+  - "Task 1: SD-WAN Manager": task1.md
+  - "Task 2: Support Manager": task2.md
+  - "Task 3: Script File": task3.md
+  - "Task 4: Test App": task4.md
+  - "Final": final.md
